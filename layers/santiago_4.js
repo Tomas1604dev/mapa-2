@@ -1,0 +1,1 @@
+var json_santiago_4 = {"type":"FeatureCollection","name":"santiago_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","ciudad":"SANTIAGO"},"geometry":{"type":"Point","coordinates":[-70.676335659186947,-33.444870111835442]}}]}
